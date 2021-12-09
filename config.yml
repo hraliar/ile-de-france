@@ -22,7 +22,7 @@ config:
   random_seed: 1234
 
   # Paths to the input data and where the output should be stored
-  data_path: /path/to/my/data
+  data_path: C:\Users\hamid\Volocopter GmbH\Ext Team Paris Visum Model - General\Paris traffic model\Thesis\Matsim\data
   output_path: output
 
   # Only interesting if you run the simulation
